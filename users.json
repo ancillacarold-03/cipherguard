@@ -1,0 +1,14 @@
+[
+  {
+    "username": "admin",
+    "password": "password123"
+  },
+  {
+    "username": "student",
+    "password": "cipherguard2026"
+  },
+  {
+    "username": "user",
+    "password": "security1"
+  }
+]
